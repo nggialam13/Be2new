@@ -1,1 +1,1 @@
-đây là file week1.txt thộc branch week1
+đây là file week1.txt thộc branch week1 và branch main
